@@ -34,7 +34,7 @@ What are the differences in terms of neural avalanches for the two cases? You ca
 Optional: compute the avalanche durations analytically using the same parameters of the simulations for the two cases. The full calculations are available in the notes.
 
 ### Homework 5:
-Perform the stability analysis for the Wilson-Cowan model without refractory dynamics. Set self-excitation and self-inhibition to zero, and the $alpha_E=alpha_I=1$.
+Perform the stability analysis for the Wilson-Cowan model without refractory dynamics. Set self-excitation and self-inhibition to zero, and the $\alpha_E=\alpha_I=1$.
 Optional: what is the difference if one considers also the refractory dynamics?
 
 ### Homework 6:
