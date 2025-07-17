@@ -1,6 +1,6 @@
 # Exercises for Physical Models for Living Systems
 
-This repository contains solutions to exercises assigned in the course *Physical Models for Living Systems* during the academic year 2023-2024. The exercises were tackled in Autumn 2023 and cover topics in ecology modeling (Homework 1-3) and theoretical neuroscience (Homework 4-7). 
+This repository contains solutions to exercises assigned in the course *Physical Models for Living Systems*. The exercises cover topics in ecology modeling (Homework 1-3) and theoretical neuroscience (Homework 4-7). 
 The specific deliveries include:
 
 **Homework 1-3**: Focus on ecology modeling, covering topics such as linear stability analysis, quasi-stationary approximation, and matrix eigenvalue calculations for different ecological structures.
